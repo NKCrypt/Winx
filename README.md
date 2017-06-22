@@ -26,9 +26,9 @@ RFI
 
 # Getting Started
 
-1) git clone https://github.com/Winx/Winx.git
-2) Cd Swift
-3) python Swift.py
+> 1) git clone https://github.com/Winx/Winx.git
+> 2) cd Winx
+> 3) python Winx.py
 # Requirements
 
 Python2.7
