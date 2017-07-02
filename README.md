@@ -14,16 +14,11 @@
 
 ## Swift Features
 
-* Scans
-
-         - Xss
-
-         - SQL
-
-         - LFI
-
-         - RFI
-
+- Scans
+	- Xss
+	- SQL
+	- LFI
+	- RFI
 # Getting Started
 
 ```
