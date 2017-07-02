@@ -1,4 +1,4 @@
-# Winx:
+# Winx
 
 * Update: Version 1.0
 
@@ -16,13 +16,13 @@
 
 * Scans
 
-      * Xss
+          * Xss
 
-      * SQL
+          * SQL
 
-      * LFI
+          * LFI
 
-      * RFI
+          * RFI
 
 
 # Getting Started
