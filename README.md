@@ -16,14 +16,13 @@
 
 * Scans
 
-          * Xss
+         - Xss
 
-          * SQL
+         - SQL
 
-          * LFI
+         - LFI
 
-          * RFI
-
+         - RFI
 
 # Getting Started
 
